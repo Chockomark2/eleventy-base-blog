@@ -9,7 +9,7 @@ Phil Lynott was a charismatic and influential musician best known as the lead vo
 
 Lynott's rich musical legacy extends beyond Thin Lizzy, encompassing solo albums that showcased his eclectic songwriting skills. A pioneering figure in rock, he deftly fused elements of hard rock, blues, and Celtic folk, shaping the sound of generations to come. His enduring influence continues to resonate in rock music today.
 
-## Section Header
+## Some More I hear you call
 
 Beyond his musical prowess, Phil Lynott was a cultural icon whose magnetic personality and poetic lyrics captured the imagination of fans. With his Afro-Irish heritage and distinctive stage presence, he broke barriers and inspired a diverse range of artists, leaving an indelible imprint on the fabric of rock culture.
 
