@@ -1,7 +1,7 @@
 ---
 title: We want Moore.
 description: This is a post on My Blog about Gary Moore.
-date: 2024-02=02
+date: 2024-02-02
 tags: second tag
 ---
 Gary Moore was a legendary Irish guitarist, singer, and songwriter known for his soulful blues-rock style. With a career spanning decades, he captivated audiences with his electrifying performances and emotive guitar solos. Moore's influence on the music industry remains profound, cementing his status as a guitar virtuoso.
