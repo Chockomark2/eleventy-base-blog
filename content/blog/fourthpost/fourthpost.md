@@ -8,9 +8,7 @@ Gary Moore was a legendary Irish guitarist, singer, and songwriter known for his
 
 His journey encompassed various genres, from hard rock to blues, showcasing his versatility and musical prowess. Moore's iconic albums like "Still Got the Blues" and collaborations with artists like Thin Lizzy left an indelible mark on rock history. Even after his passing, his legacy continues to inspire generations of musicians worldwide.
 
-{% image "https://www.pickart.co.uk/wp-content/uploads/2021/01/Gary-Moore-001.jpg", "A possum parent and two possum kids hanging from the iconic red balloon" %}
-
-{% image "./possum.png", "A possum parent and two possum kids hanging from the iconic red balloon" %}
+{% image "https://www.pickart.co.uk/wp-content/uploads/2021/01/Gary-Moore-001.jpg", "Gary Moore" %}
 
 ## Still Wanting some Moore
 
